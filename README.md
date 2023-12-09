@@ -41,4 +41,4 @@ vagrant ssh control
 sudo cp /vagrant/hosts /etc/hosts
 ```
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/your-video-id](https://youtu.be/35XgxR_TSc8?si=zWwjueZF8vzGZqXr)https://youtu.be/35XgxR_TSc8?si=zWwjueZF8vzGZqXr" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/35XgxR_TSc8" frameborder="0" allowfullscreen></iframe>
