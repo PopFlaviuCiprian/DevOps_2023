@@ -40,7 +40,7 @@ vagrant ssh control
 ```
 sudo cp /vagrant/hosts /etc/hosts
 ```
-
+# Whatch the video bellow
 
 [![Watch the video](https://img.youtube.com/vi/35XgxR_TSc8/hqdefault.jpg)](https://www.youtube.com/embed/35XgxR_TSc8)
 
