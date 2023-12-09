@@ -40,3 +40,5 @@ vagrant ssh control
 ```
 sudo cp /vagrant/hosts /etc/hosts
 ```
+
+![Alt Text]([https://www.youtube.com/embed/your-video-id](https://youtu.be/35XgxR_TSc8)https://youtu.be/35XgxR_TSc8)
