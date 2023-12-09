@@ -41,4 +41,5 @@ vagrant ssh control
 sudo cp /vagrant/hosts /etc/hosts
 ```
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/35XgxR_TSc8" frameborder="0" allowfullscreen></iframe>
+[![Everything Is AWESOME](https://i.stack.imgur.com/q3ceS.png)]
+(https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
