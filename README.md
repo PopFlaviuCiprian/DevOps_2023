@@ -41,4 +41,4 @@ vagrant ssh control
 sudo cp /vagrant/hosts /etc/hosts
 ```
 
-[![Alt text](https://www.howtogeek.com/wp-content/uploads/2021/06/youtube_hero_1200x675.jpg?width=1198&trim=1,1&bg-color=000&pad=1,1)](https://youtu.be/35XgxR_TSc8)
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/your-video-id](https://youtu.be/35XgxR_TSc8?si=zWwjueZF8vzGZqXr)https://youtu.be/35XgxR_TSc8?si=zWwjueZF8vzGZqXr" frameborder="0" allowfullscreen></iframe>
