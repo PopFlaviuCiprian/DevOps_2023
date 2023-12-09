@@ -43,6 +43,6 @@ sudo cp /vagrant/hosts /etc/hosts
 
 ![Alt Text](https://res.cloudinary.com/practicaldev/image/fetch/s--ujs3iYtL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zeob9t40s9hvaxcddf9u.png)
 
-[![Watch the video](https://img.youtube.com/vi/35XgxR_TSc8/hqdefault.jpg)]([https://www.youtube.com/embed/35XgxR_TSc8]
+[![Watch the video]([https://www.youtube.com/embed/35XgxR_TSc8]
 
 
