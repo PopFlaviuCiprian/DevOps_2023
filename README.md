@@ -41,4 +41,6 @@ vagrant ssh control
 sudo cp /vagrant/hosts /etc/hosts
 ```
 
-![Vagrant Ansible Docker](https://youtu.be/35XgxR_TSc8)
+![Alt Text](https://res.cloudinary.com/practicaldev/image/fetch/s--ujs3iYtL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zeob9t40s9hvaxcddf9u.png)
+
+
