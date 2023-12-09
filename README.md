@@ -7,11 +7,11 @@ The password for all vm's is vagrant
 # Requirements
 In this project I'm going to install all the requirements 
 
-Vagrant
-Oracle VirtualBox
-Docker
-Docker Compose
-Ansible
+- Vagrant
+- Oracle VirtualBox
+- Docker
+- Docker Compose
+- Ansible
 
 # Install Vagrant
 https://www.vagrantup.com/docs/installation
