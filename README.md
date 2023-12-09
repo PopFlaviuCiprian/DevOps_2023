@@ -40,6 +40,4 @@ vagrant ssh control
 ```
 sudo cp /vagrant/hosts /etc/hosts
 ```
-
-[![Everything Is AWESOME](https://i.stack.imgur.com/q3ceS.png)]
-(https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
+[![Vagrant Ansible Docker]([https://i.stack.imgur.com/q3ceS.png](https://res.cloudinary.com/practicaldev/image/fetch/s--ujs3iYtL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zeob9t40s9hvaxcddf9u.png)https://res.cloudinary.com/practicaldev/image/fetch/s--ujs3iYtL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zeob9t40s9hvaxcddf9u.png)]([https://youtu.be/35XgxR_TSc8](https://youtu.be/35XgxR_TSc8)](https://youtu.be/35XgxR_TSc8 "Vagrant Ansible Docker")
