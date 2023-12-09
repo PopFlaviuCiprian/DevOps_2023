@@ -1,6 +1,6 @@
 
 # Workflow
-We are goind to build 4 servers using Vagrant, after creating the servers we are going to use Ansible to run a Playbook that will automate the configuration of the servers
+We are going to build 4 servers using Vagrant, after creating the servers we are going to use Ansible to run a Playbook that will automate the configuration of the servers
 After the servers are configured we will containerize a simple web application and finally we will convert the servers to docker swarm and bring the application to swarm
 The password for all vm's is vagrant
 
