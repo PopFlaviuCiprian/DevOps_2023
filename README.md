@@ -9,6 +9,7 @@ In this project I'm going to install all the requirements
 
 - Vagrant
 - Oracle VirtualBox
+- Visual Studio Code
 - Docker
 - Docker Compose
 - Ansible
